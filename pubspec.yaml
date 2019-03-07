@@ -8,10 +8,7 @@ environment:
   sdk: '>=2.1.0'
 
 dependencies:
-  pointycastle:
-    git:
-      url: https://github.com/getcanoe/pointycastle
-      ref: master
+  pointycastle: ^1.0.1
 
 dev_dependencies:
   test:
